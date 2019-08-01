@@ -1,0 +1,10 @@
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\TelegramJosias.exe.config
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\TelegramJosias.exe
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\TelegramJosias.pdb
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\obj\Debug\TelegramJosias.csprojResolveAssemblyReference.cache
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\obj\Debug\TelegramJosias.exe
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\obj\Debug\TelegramJosias.pdb
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\Newtonsoft.Json.dll
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\Telegram.Bot.dll
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\Newtonsoft.Json.xml
+c:\users\suporte99\documents\visual studio 2015\Projects\TelegramJosias\TelegramJosias\bin\Debug\Telegram.Bot.xml
